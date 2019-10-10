@@ -1,5 +1,7 @@
 # wheel
-造轮子大业～
+造轮子大业～‘
+
+三级城市联动插件
 
 #### 辅助插件
 * 省市县/区三级联动插件(PC) [selectCity(pc)](https://github.com/EdogawaSherry/wheel/tree/master/selectCity(pc))
